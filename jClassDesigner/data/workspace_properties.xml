@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    This XML file allows us to easily customize the look and language used
+    in our program's user interface. Note that this properties file is only
+    for the workspace controls, which are custom for each application
+-->
+<properties>
+    <property_list>
+        <!-- PROGRAM ICON FILES -->
+	<property name="LOAD_ICON"			value="Open.png"></property>
+	<property name="SNAPSHOT_ICON"		value="Snapshot.png"></property>
+	<property name="CODE_ICON"		value="Code.png"></property>
+	<property name="SELECT_ICON"		value="SelectionTool.png"></property>
+	<property name="RESIZE_ICON"		value="Dimensions.png"></property>
+	<property name="ADD_CLASS_ICON"		value="class.png"></property>
+	<property name="ADD_INTERFACE_ICON"		value="Interface.png"></property>
+	<property name="REMOVE_ICON"		value="Remove.png"></property>
+	<property name="UNDO_ICON"		value="Undo.png"></property>
+	<property name="REDO_ICON"		value="Redo.png"></property>
+	<property name="ZOOM_IN_ICON"		value="ZoomIn.png"></property>
+	<property name="ZOOM_OUT_ICON"		value="ZoomOut.png"></property>
+	<property name="PLUS_ICON"		value="plus.png"></property>
+	<property name="MINUS_ICON"		value="minus.png"></property>
+	<property name="EDIT_PARAM_ICON"	value="edit_param.png"></property>
+	<property name="X_ICON"			value="x.png"></property>
+	
+	
+        
+        <!-- TOOLTIPS FOR BUTTONS -->
+	<property name="LOAD_TOOLTIP"	    value="Load existing file"></property>
+	<property name="SNAPSHOT_TOOLTIP"	    value="Export as image"></property>
+	<property name="CODE_TOOLTIP"			value="Export as Java code"></property>
+	<property name="SELECT_TOOLTIP"		value="Selection tool"></property>
+	<property name="RESIZE_TOOLTIP"		value="Resize item"></property>
+	<property name="ADD_CLASS_TOOLTIP"		value="Add a new class"></property>
+	<property name="ADD_INTERFACE_TOOLTIP"		value="Add a new interface"></property>
+	<property name="REMOVE_TOOLTIP"		value="Remove selected"></property>
+	<property name="UNDO_TOOLTIP"		value="Undo last action"></property>
+	<property name="REDO_TOOLTIP"		value="Redo last undo"></property>
+	<property name="ZOOM_IN_TOOLTIP"		value="Zoom in"></property>
+	<property name="ZOOM_OUT_TOOLTIP"		value="Zoom out"></property>
+	<property name="EDIT_PARAM_TOOLTIP"		value="Edit parameters for this method"></property>
+	
+	
+	<!-- LABELS -->
+	<property name="CLASS_NAME_LABEL"		value="Class Name: "></property>
+	<property name="PACKAGE_LABEL"		value="Package: "></property>
+	<property name="PARENT_LABEL"		value="Parent: "></property>
+	<property name="VARIABLES_LABEL"		value="Variables: "></property>
+	<property name="METHODS_LABEL"		value="Methods: "></property>
+	<property name="GRID_LABEL"			value="Grid"></property>
+	<property name="SNAP_LABEL"			value="Snap"></property>
+	<property name="NAME_LABEL"			value="Name"></property>
+	<property name="TYPE_LABEL"			value="Type"></property>
+	<property name="RETURN_TYPE_LABEL"			value="Return Type"></property>
+	<property name="VISIBILITY_LABEL"	value="Visibility"></property>
+	<property name="STATIC_LABEL"		value="Static?"></property>
+	<property name="PARAMETERS_LABEL"	value="Parameters of "></property>
+	<property name="EDIT_LABEL"			value="Click to Edit"></property>
+	
+	<!-- MESSAGES -->
+		
+	<!-- ERROR MESSAGES AND TITLES FOR THEIR DIALOGS -->
+	<property name="EXPORT_ERROR_MESSAGE"   	value="An error occured exporting work."></property>
+    <property name="EXPORT_ERROR_TITLE"			value="Exporting Work Error"></property>
+        
+    </property_list>
+    <property_options_list>
+    </property_options_list>
+</properties>
